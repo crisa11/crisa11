@@ -1,16 +1,18 @@
-## Hi there 👋
+I’m **Vincenzo Crisà**, 23 y/o.
 
-<!--
-**crisa11/crisa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Computer Engineer
 
-Here are some ideas to get you started:
+📚 Master’s student in *Artificial Intelligence and Robotics* at Sapienza University of Rome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Interested in 
+* Deep Learning, 
+* Natural Language Processing,
+* Reinforcement Learning,
+* Computer Vision
+
+
+💻 Confident in Java, Python, SQL, and JavaScript
+
+🎯 Passionate about continuous learning and self-improvement
+
+🗂️ Highly organized, with a structured and efficient approach to work and problem solving
