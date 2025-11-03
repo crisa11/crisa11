@@ -2,7 +2,7 @@ I’m **Vincenzo Crisà**, 23 y/o.
 
 🧑🏻‍💻 Computer Engineer
 
-📚 Master’s student in *Artificial Intelligence and Robotics* at Sapienza University of Rome
+📚 MSc in *Artificial Intelligence and Robotics* at Sapienza University of Rome
 
 👀 Interested in 
 * Deep Learning, 
